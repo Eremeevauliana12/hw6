@@ -13,7 +13,8 @@
 
 №1. ![](https://github.com/Eremeevauliana12/hw6/blob/master/modifiers.png)
 
-№2. ![](https://github.com/Eremeevauliana12/hw6/blob/master/two%20two.png)
+№2. Я взяла 2 синонима: глаголы visit и attend. Вывод: Оба глагола могут употребляться с такими дополнениями, как college, school, centre, hospital. С такими дополнениями, как meeting, conference может употребляться только attend.  С такими дополнениями, как site, museum может употребляться только visit. 
+![](https://github.com/Eremeevauliana12/hw6/blob/master/two%20two.png)
 
 №3. 
 Я выбрала слово "lion". Рассматривая частотность этого слова с точки зрения Google Ngrams, я могу заметить, что частотность данного слова не увеличивается, а наоборот уменьшается. Рассматривая это слово в BNC, я вижу, что оно наоборот набирает популярность и могу наблюдать рост частотности слова "lion".
